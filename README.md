@@ -1,5 +1,7 @@
 # Go
 
-Go packages that don't really deserve their own repos.
+> Go packages, collection utilities
 
-Inspire by [tj/go](https://github.com/tj/go)
+## Related
+
+- [tj/go](https://github.com/tj/go)
